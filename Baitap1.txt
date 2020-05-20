@@ -1,0 +1,11 @@
+var listClasse=[
+  ['Võ Huy Khánh',21,'2117110027'],
+  ['Trần Minh An',21,'2117110043'],
+  ['Trần Thị Thúy',21,'2117110075']
+]
+var listClasse=[
+  {name:'Võ Huy Khánh',age:21,studencode:'2117110027'},
+  {name:'Trần Minh An',age:21,studencode:'2117110043'},
+  {name:'Trần Thị Thúy',age:21,studencode:'2117110075'}
+];
+listClasse[2]
